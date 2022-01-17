@@ -1,9 +1,11 @@
 ### Livro de Receitas
 
-Seja bem vindo ao livro de receitas
+_Seja bem vindo ao livro de receitas_
 
 **Glossário**
 
 - Introdução
 - Strogonoff
 - Pavê
+- Bolo de cenoura
+- Angu
