@@ -1,7 +1,9 @@
-# livro de receitas
+### Livro de Receitas
 
-### seja bem vindo
+Seja bem vindo ao livro de receitas
 
-_trabalho_
+**Glossário**
 
-**fui**
+- Introdução
+- Strogonoff
+- Pavê
